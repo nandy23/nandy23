@@ -50,7 +50,6 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 - 🏃 **[APP-Penjualan-Olahraga-PHP-Native](https://github.com/nandy23/APP-Penjualan-Olahraga-PHP-Native)** — sports e-commerce, PHP native.
 - 🚗 **[rental-mobil](https://github.com/nandy23/rental-mobil)** — OOP + REST client practice with Guzzle.
 - 👁️ **[OpenCV-Learn](https://github.com/nandy23/OpenCV-Learn)** — computer vision experiments.
-- 🌐 **[nandy23.github.io](https://github.com/nandy23/nandy23.github.io)** — personal site.
 
 ## What I'm Doing
 
