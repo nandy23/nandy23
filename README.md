@@ -52,18 +52,12 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 - 👁️ **[OpenCV-Learn](https://github.com/nandy23/OpenCV-Learn)** — computer vision experiments.
 - 🌐 **[nandy23.github.io](https://github.com/nandy23/nandy23.github.io)** — personal site.
 
-## GitHub Activity
-
-![nandy23's stats](https://github-readme-stats.vercel.app/api?username=nandy23&show_icons=true&count_private=false&include_all_commits=true&theme=default&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandy23&layout=compact&theme=default&hide_border=true&langs_count=8)
-
 ## What I'm Doing
 
-- 🔭 Building **incident-copilot** as an open-source SRE assistant.
-- 🌱 Learning **eBPF** for production tracing, **OpenTelemetry** sampling, service-mesh internals.
-- 🏫 Wrapping up Computer Science at **Unisbank Semarang**.
-- 💼 Open to **DevOps consulting**, platform engineering, and SRE freelance.
+- 💼 **IT Infrastructure / DevOps Engineer** with 4+ years of experience — Cloud, Docker, Kubernetes, CI/CD, Cost Optimization, and Monitoring/Observability.
+- 🔭 Shipping **one new DevOps/SRE tool every week** — recent ones: incident-copilot, cfaudit-posture, kctx, image-janitor.
+- 🌱 Learning **eBPF** for production tracing, **OpenTelemetry** sampling, and service-mesh internals.
+- 🤝 Open to **DevOps consulting**, platform engineering, and SRE freelance.
 - 📬 Reach me: muh.nurmahmudin23@gmail.com
 
 ## Connect
