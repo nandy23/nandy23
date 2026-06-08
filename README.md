@@ -64,7 +64,7 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 - 🌱 Learning **eBPF** for production tracing, **OpenTelemetry** sampling, service-mesh internals.
 - 🏫 Wrapping up Computer Science at **Unisbank Semarang**.
 - 💼 Open to **DevOps consulting**, platform engineering, and SRE freelance.
-- 📬 Reach me: helloword9923@gmail.com
+- 📬 Reach me: muh.nurmahmudin23@gmail.com
 
 ## Connect
 
