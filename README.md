@@ -24,6 +24,7 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 
 ## Start Here
 
+- 🩺 **[cluster-doctor](https://github.com/nandy23/cluster-doctor)** — Kubernetes triage CLI: audit + health scoring + rightsizing + deterministic root-cause why-engine. No LLM, fully explainable.
 - 🤖 **[incident-copilot](https://github.com/nandy23/incident-copilot)** — AI-assisted incident response: runbook autocomplete, log triage, postmortem drafting.
 - ⛵ **[kctx](https://github.com/nandy23/kctx)** — fast kube-context & namespace switcher with fuzzy search and saved profiles.
 - ☁️ **[azx](https://github.com/nandy23/azx)** — fast Azure subscription switcher; like `kctx`, but for `az account`.
@@ -35,6 +36,9 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 ### Cloud CLI & Context Helpers
 - ⛵ **[kctx](https://github.com/nandy23/kctx)** — fuzzy Kubernetes context/namespace switcher with profile bundles (context + namespace + KUBECONFIG). Go + Bubble Tea.
 - ☁️ **[azx](https://github.com/nandy23/azx)** — Azure subscription switcher with fuzzy search; trims `az account set` ceremony to a single keystroke. Python.
+
+### Kubernetes Health & Triage
+- 🩺 **[cluster-doctor](https://github.com/nandy23/cluster-doctor)** — deterministic, rule-based CLI for cluster health: static audit, 0–100 health score per workload, P50/P95/P99 rightsize, root-cause *why-engine*, and manifest diff risk. Python + Typer + Rich, with auto-fallback to other kubeconfig contexts when the active cluster is unreachable.
 
 ### Container & Registry Tooling
 - 🧹 **[image-janitor](https://github.com/nandy23/image-janitor)** — multi-registry cleanup (Hub, GHCR, GCR, ECR, Harbor) with declarative retention policies. Dry-run + cron-friendly.
@@ -54,7 +58,7 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 ## What I'm Doing
 
 - 💼 **IT Infrastructure / DevOps Engineer** with 4+ years of experience — Cloud, Docker, Kubernetes, CI/CD, Cost Optimization, and Monitoring/Observability.
-- 🔭 Shipping **one new DevOps/SRE tool every week** — recent ones: incident-copilot, cfaudit-posture, kctx, image-janitor.
+- 🔭 Shipping **one new DevOps/SRE tool every week** — recent ones: cluster-doctor, incident-copilot, cfaudit-posture, kctx, image-janitor.
 - 🌱 Learning **eBPF** for production tracing, **OpenTelemetry** sampling, and service-mesh internals.
 - 🤝 Open to **DevOps consulting**, platform engineering, and SRE freelance.
 - 📬 Reach me: muh.nurmahmudin23@gmail.com
