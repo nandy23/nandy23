@@ -24,6 +24,7 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 
 ## Start Here
 
+- 🔐 **[devsecops-cli](https://github.com/nandy23/devsecops-cli)** — `devsec`, the open source DevSecOps assistant: detect your stack, recommend & run security scanners, score security maturity 0–100, audit CI/CD, and integrate 11 enterprise platforms. Orchestrates tools, never bundles them.
 - 🩺 **[cluster-doctor](https://github.com/nandy23/cluster-doctor)** — Kubernetes triage CLI: audit + health scoring + rightsizing + deterministic root-cause why-engine. No LLM, fully explainable.
 - 🤖 **[incident-copilot](https://github.com/nandy23/incident-copilot)** — AI-assisted incident response: runbook autocomplete, log triage, postmortem drafting.
 - ⛵ **[kctx](https://github.com/nandy23/kctx)** — fast kube-context & namespace switcher with fuzzy search and saved profiles.
@@ -47,6 +48,7 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 - 🤖 **[incident-copilot](https://github.com/nandy23/incident-copilot)** — turns alert chaos into structured workflows. Alertmanager / PagerDuty ingestion, LLM-backed runbook search, postmortem auto-fill.
 
 ### Security & Compliance
+- 🔐 **[devsecops-cli](https://github.com/nandy23/devsecops-cli)** — `devsec` analyzes repos, recommends/runs scanners (Trivy, gitleaks, Semgrep, Snyk, Checkov…), ingests their results into a 0–100 security maturity score, audits CI/CD pipelines, auto-remediates, and connects 11 platforms (SonarQube, Harbor, Vault, JFrog Xray, Dependency-Track, Falco…). Go, Clean Architecture, SARIF output.
 - 🛡️ **[cfaudit-posture](https://github.com/nandy23/cfaudit-posture)** — read-only Cloudflare audits for HTTPS, HSTS, DNSSEC, WAF, Bot Management, Zero Trust Access. JSON output for CI.
 
 ### Coursework & Learning Repos
@@ -58,7 +60,7 @@ Currently building reliable systems with **Cloud(Azure, AWS, GCP)**, **Kubernete
 ## What I'm Doing
 
 - 💼 **IT Infrastructure / DevOps Engineer** with 4+ years of experience — Cloud, Docker, Kubernetes, CI/CD, Cost Optimization, and Monitoring/Observability.
-- 🔭 Shipping **one new DevOps/SRE tool every week** — recent ones: cluster-doctor, incident-copilot, cfaudit-posture, kctx, image-janitor.
+- 🔭 Shipping **one new DevOps/SRE tool every week** — recent ones: devsecops-cli, cluster-doctor, incident-copilot, cfaudit-posture, kctx, image-janitor.
 - 🌱 Learning **eBPF** for production tracing, **OpenTelemetry** sampling, and service-mesh internals.
 - 🤝 Open to **DevOps consulting**, platform engineering, and SRE freelance.
 - 📬 Reach me: muh.nurmahmudin23@gmail.com
